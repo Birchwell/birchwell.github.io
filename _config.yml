@@ -8,6 +8,5 @@ gems:
   - jekyll-sitemap
 
 name: Birch Well
-url: http://derekmyers.com
-description: Just a software developer building web apps.
-twitter: imderek
+url: http://birchwell.github.io
+description: A storehouse for useful CLI commands, scripts, and Thunar Custom Actions.
