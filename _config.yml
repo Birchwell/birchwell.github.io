@@ -1,0 +1,13 @@
+markdown: rdiscount
+permalink: /posts/:title
+timezone: America/Chicago
+rdiscount:
+  extensions: [smart]
+
+gems:
+  - jekyll-sitemap
+
+name: Derek Myers
+url: http://derekmyers.com
+description: Just a software developer building web apps.
+twitter: imderek
