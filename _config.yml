@@ -1,6 +1,6 @@
 markdown: rdiscount
 permalink: /posts/:title
-timezone: America/Chicago
+timezone: America/New York
 rdiscount:
   extensions: [smart]
 
