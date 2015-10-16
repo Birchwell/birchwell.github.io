@@ -9,4 +9,5 @@ gems:
 
 name: Birch Well
 url: http://birchwell.github.io
+baseurl: http://birchwell.github.io
 description: A storehouse for useful CLI commands, scripts, and Thunar Custom Actions.
