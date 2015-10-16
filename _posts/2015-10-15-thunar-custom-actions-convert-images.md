@@ -7,24 +7,15 @@ To learn how to use Thunar Custom Actions click [here](https://birchwell.github.
 
 Convert the selected files to the user defined graphic format (jpg, png, tiff, webp, gif, etc). Quality can be set. The converted images will be placed in a separate folder and the originals will remain intact. Zenity must be installed.
 
-|-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|:-----------|:---------------:|---------------:|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-|-----------------+------------+-----------------+----------------|
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-|=================+============+=================+================|
-| Footer row      |            |                 |                |
-|-----------------+------------+-----------------+----------------|
+~~~
 
 * Name: Convert Images
 * Description: Convert the selected files to the user defined graphic format
 * Command: 
 
 `/home/$USER/Scripts/convert-image.sh %N`
+
+~~~
 
 Under `Appears if selection contains` make sure `Image Files` is checked.
 
