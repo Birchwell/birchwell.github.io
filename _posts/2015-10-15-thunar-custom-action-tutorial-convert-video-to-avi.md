@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thunar Custom Actions - Convert Video to AVI
+title: Thunar Custom Action - Convert Video to AVI
 category: posts
 ---
 
