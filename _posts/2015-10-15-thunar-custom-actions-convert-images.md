@@ -9,7 +9,7 @@ Convert the selected files to the user defined graphic format (jpg, png, tiff, w
 
 * Name: Convert Images
 * Description: Convert the selected files to the user defined graphic format
-* Command `/home/$USER/Scripts/convert-image.sh %N`
+* Command: | `/home/$USER/Scripts/convert-image.sh %N`
 
 Under `Appears if selection contains` make sure `Image Files` is checked.
 
