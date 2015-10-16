@@ -59,9 +59,10 @@ Under `Appearance Conditions` check `Image Files`.
 
 ##Thunar Custom Action – Create Montage of Directory Contents
 
-This Custom Action works if you have a directory of images you want to make into a montage. Just right-click on the folder housing the images and click G’Mic Montage Folder Content. The montage will be saved within the respective folder (this works on multiple folders, though the system may freeze up if you run it on too many folders at once). The script currently works only with JPGs, but it can be modified to work with additional formats. With the command-line version of the command the quality output can be controlled by following output.”$(date)”.jpg with, say, “,75″ which amounts to 75% quality. I can’t get the quality output function to work with the command for Thunar Custom Actions. So when creating montages with Thunar Custom Actions you’ll need to reconvert the output montage to smaller quality, unless you don’t mind a large filesize.
+This Custom Action works if you have a directory of images you want to make into a montage. Just right-click on the folder housing the images and click G’Mic Montage Folder Content. The montage will be saved within the respective folder (this works on multiple folders, though the system may freeze up if you run it on too many folders at once). The script currently works only with JPGs, but it can be modified to work with additional formats. With the command-line version of the command the quality output can be controlled by following output.”$(date)”.jpg with, say, “,75″ which amounts to 75% quality. I can’t get the quality output function to work with the command for Thunar Custom Actions. So when creating montages with Thunar Custom Actions you’ll need to reconvert the output montage to smaller quality, unless you don’t mind a large filesize. NOTE: Will not work on images with spaces in filenames. The Custom Actions [here](https://birchwell.github.io/posts/thunar-custom-action-slugify-and-remove-custom-characters/) are good for removing spaces and other characters from filenames.
 
-* Name: G’Mic Montage Folder Content
+* Name: G’Mic Montage Folder 
+* Content
 * Command: 
 
 `/$USER/Scripts/montagefolders.sh %F`
@@ -74,4 +75,21 @@ Change `$USER/Scripts/montagefolders.sh` to the path of the bash script, and cha
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `montagefolders.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x montagefolders.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/b683f6f42c5900a02a5b)
+[Bash Script](https://gist.github.com/Birchwell/b9805289893117345f1f)
+
+##Thunar Custom Action - Create Multiple Montages of Images in Folder
+
+This G'Mic script will go through a folder of many images and output multiple montages in the working folder. The script can be modified to customize the number of images to turn into individual montages by changing the "4" in "(expr $c % 4)" to whatever number desired. NOTE: Will not work on images with spaces in filenames. The Custom Actions [here](https://birchwell.github.io/posts/thunar-custom-action-slugify-and-remove-custom-characters/) are good for removing spaces and other characters from filenames.
+
+
+* Name: G’Mic Multiple Montages
+* Content
+* Command: 
+
+`/$USER/Scripts/gmicmultiplemontages.sh %N`
+
+###Bash Script:
+
+I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `gmicmultiplemontages.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x gmicmultiplemontages.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
+
+[Bash Script](https://gist.github.com/Birchwell/8065b4561c98c5a8a5cf)
