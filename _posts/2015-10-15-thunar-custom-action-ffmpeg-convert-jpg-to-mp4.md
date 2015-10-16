@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thunar Custom Actions - Convert Images to MP4 Slideshow
+title: Thunar Custom Action - Convert Images to MP4 Slideshow
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
