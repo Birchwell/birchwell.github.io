@@ -79,7 +79,7 @@ I keep my bash scripts in a folder called “Scripts” in my personal directory
 
 ##Thunar Custom Action - Create Multiple Montages of Images in Folder
 
-This G'Mic script will go through a folder of many images and output multiple montages in the working folder. The script can be modified to customize the number of images to turn into individual montages by changing the "4" in "(expr $c % 4)" to whatever number desired. NOTE: Will not work on images with spaces in filenames. The Custom Actions [here](https://birchwell.github.io/posts/thunar-custom-action-slugify-and-remove-custom-characters/) are good for removing spaces and other characters from filenames.
+This G'Mic script will go through a folder of many images and output multiple montages in the working folder. The script can be modified to customize the number of images to turn into individual montages by changing the `4` in `(expr $c % 4)` to whatever number desired. NOTE: Will not work on images with spaces in filenames. The Custom Actions [here](https://birchwell.github.io/posts/thunar-custom-action-slugify-and-remove-custom-characters/) are good for removing spaces and other characters from filenames.
 
 
 * Name: G’Mic Multiple Montages
