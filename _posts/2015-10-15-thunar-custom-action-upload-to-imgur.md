@@ -21,5 +21,5 @@ Change `/home/$USER/Scripts/thunar-upload-to-imgur.sh` to the path of the bash s
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script: thunar-upload-to-imgur.sh Save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type: `chmod +x thunar-upload-to-imgur.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/aeb579ffc69493c1792c)
+[Bash Script](https://gist.github.com/Birchwell/b7eb07dddbb6b53a635e)
 
