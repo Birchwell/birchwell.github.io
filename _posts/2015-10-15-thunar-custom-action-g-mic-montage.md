@@ -25,7 +25,7 @@ This part of the command:
 
 `,1,1.0,0,5,0,0,0,255,0,0,0,0,0`
 
-has 12 values between commas representing different options.
+has 13 values between commas representing different options.
 
 * 1st placement: I can’t determine what this does.
 
