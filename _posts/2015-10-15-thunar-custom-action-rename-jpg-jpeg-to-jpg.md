@@ -1,0 +1,16 @@
+---
+layout: post
+title: Thunar Custom Action - Rename Jpeg/JPG to Lowercase jpg
+category: posts
+---
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+
+This custom action will rename images with JPEG and JPG extensions with jpg.
+
+* Name: Rename JPEG, JPG to jpg
+* Description: Sort images by dimensions.
+* Command: 
+
+`rename 's/\.jpe?g$/.jpg/i' * %F`
+
+Under `Appearance conditions` check `Image Files`.
