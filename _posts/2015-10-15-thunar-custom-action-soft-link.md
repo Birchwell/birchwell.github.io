@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thunar Custom Actions - Create Soft Link
+title: Thunar Custom Action - Create Soft Link
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
