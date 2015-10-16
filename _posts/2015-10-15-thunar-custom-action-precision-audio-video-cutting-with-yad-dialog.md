@@ -29,7 +29,7 @@ When right-clicking on an audio or video file and selecting the Chop Audio/Video
 
 * Name: Chop Audio/Video
 * Description: Cut video using start/stop times
-Command: `/$USER/Scripts/chopvideoaudio.sh %N`
+* Command: `/$USER/Scripts/chopvideoaudio.sh %N`
 
 Under `Appears if selection contains` make sure `Audio Files` and `Video Files` are checked.
 
