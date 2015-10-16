@@ -7,10 +7,9 @@ To learn how to use Thunar Custom Actions click [here](https://birchwell.github.
 
 Convert the selected files to the user defined graphic format (jpg, png, tiff, webp, gif, etc). Quality can be set. The converted images will be placed in a separate folder and the originals will remain intact. Zenity must be installed.
 
-| | | |
-|-|-|-|
-| Normal Key| Value1 |
-|__BoldKey__| Value2 |
+Apple
+:   Pomaceous fruit of plants of the genus Malus in 
+    the family Rosaceae.
 
 * Name: Convert Images
 * Description: Convert the selected files to the user defined graphic format
