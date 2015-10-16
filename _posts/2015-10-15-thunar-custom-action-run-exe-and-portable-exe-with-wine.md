@@ -3,12 +3,14 @@ layout: post
 title: Thunar Custom Action - Run Executable and Portable Executable with Wine
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 ##Run .EXE program with Wine
 
 * Name: Run with Wine
-* Command: `wine %f`
+* Command: 
+
+`wine %f`
 
 Under `Appears if selection contains` make sure `Other Files` is checked. And type `*.exe` into the file pattern box.
 
@@ -18,6 +20,8 @@ This is slightly different than the custom action above. Say you have a portable
 
 * Name: Open with [Name of portable program]
 * Description: Open [filetype] with [portable program]
-* Command: `wine /home/$USER/portable.exe %f`
+* Command: 
+
+`wine /home/$USER/portable.exe %f`
 
 Under `Appears if selection contains` make sure `Image Files` is checked if you want to associate the command with an image program. If you want to associate the command with a video program or a text editor or WinRar, then you will have to check different boxes accordingly. Make sure the path to the file and the filename is correct in the command.

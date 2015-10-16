@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - FFMPEG GIF Animation
 category: posts
 ---
-To learn how to use Thunar Custom Action click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Action click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This command produces a pretty good quality animated gif with a reasonably small footprint. The scale parameter will size the animated gif according to width, while retaining the correct aspect ratio. `-t 10` limits the output to 10 seconds. `-r 10` forces a frame rate of 10 frames per second. This command works best with versions of FFmpeg 2.0 and above. Check out the source link at the bottom of the post for additional ways to produce quality animated gifs, particularly LordNeckbeard’s answer. NOTE: Change the video format in the following commands and bash script to the format you're working with.
 
@@ -18,7 +18,9 @@ Example output (520×325, 920KB, 51 frames):
 This custom action will work on 1 video file at a time.
 
 * Name: Create Animated Gif
-* Command: `xfce4-terminal -x ffmpeg -i %f -vf scale=320:-1 -t 10 -r 10 output.gif`
+* Command: 
+
+`xfce4-terminal -x ffmpeg -i %f -vf scale=320:-1 -t 10 -r 10 output.gif`
 
 Under `Appearance conditions` check `Video Files`.
 
@@ -30,7 +32,9 @@ This bash script custom action will work on multiple video files, outputting mul
 
 * Name: Multiple Videos to Multiple GIFs
 * Description: Converts multiple videos to multiple GIFs
-* Command: `/home/$USER/Scripts/videotogif.sh %N`
+* Command: 
+
+`/home/$USER/Scripts/videotogif.sh %N`
 
 Under `Appearance conditions` check `Video Files`.
 

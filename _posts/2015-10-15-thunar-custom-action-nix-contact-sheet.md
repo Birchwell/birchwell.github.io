@@ -3,13 +3,15 @@ layout: post
 title: Thunar Custom Action - NIX Contact Sheet
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This Custom Action will produce contact sheets of videos using a bash script I found [here](http://p.outlyer.net/vcs/#issues).
 
 * Name: Nix Contact Sheet
 * Description: Create contact sheet for videos.
-* Command: `/home/$USER/Scripts/nix.sh -n 42 -c 3 -j %F`
+* Command: 
+
+`/home/$USER/Scripts/nix.sh -n 42 -c 3 -j %F`
 
 Under `Appears if selection contains` make sure `Video Files` is checked.
 

@@ -3,13 +3,15 @@ layout: post
 title: Thunar Custom Action - Upload to Imgur
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 Upload image(s) to Imgur.com. When the uploading is complete a box will pop up displaying various urls for the image, which can be copied and pasted. Zenity and Curl are required software.
 
 * Name: Upload to Imgur
 * Description: Upload image(s) to Imgur.com
-* Command: `/home/$USER/Scripts/thunar-upload-to-imgur.sh -f %f`
+* Command: 
+
+`/home/$USER/Scripts/thunar-upload-to-imgur.sh -f %f`
 
 Under `Appears if selection contains` make sure `Image Files` is checked.
 

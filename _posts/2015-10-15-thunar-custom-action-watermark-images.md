@@ -5,13 +5,15 @@ category: posts
 ---
 ![image](http://i.imgur.com/0PPOfuI.jpg)
 
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This custom action works with a bash script (below). Images will be watermarked after entering custom text into a dialog box and pressing enter. The originals will be copied to a subfolder of the working directory named backups. Edit the script to modify the default watermark settings to your liking.
 
 * Name: Watermark
 * Description: Watermark images.
-* Command: `/$USER/Scripts/watermark.sh %N`
+* Command: 
+
+`/$USER/Scripts/watermark.sh %N`
 
 Change `$USER/Scripts/watermark.sh` to the path of the bash script (Copy Filename and Path Custom Action above can be used for this!), and change `watermark.sh` to the name you give the bash script. Under `Appears if selection contains` make sure `Image Files` is checked.
 

@@ -3,6 +3,7 @@ layout: post
 title: Thunar Custom Actions - Convert Video to AVI
 category: posts
 ---
+
 Thunar is a file manager for Linux systems that comes packaged with the XFCE desktop environment. One of the main attractions of Thunar is the ability to add some very convenient and time saving customized actions by way of the Custom Actions utility inside Thunar.
 
 ![image](http://i.imgur.com/N4eCel8.jpg)
@@ -11,10 +12,10 @@ I'll do a walkthrough tutorial with the following Custom Action.
 
 ###Convert video to AVI
 
-This converting action requires that ffmpeg be installed, since it’s employed to convert the videos. This custom action will allow any video file to be converted to AVI.
+This converting action requires that FFmpeg be installed, since it’s employed to convert the videos. This custom action will allow any video file to be converted to AVI.
 
-* Open Thunar.
-* Go to Edit>Configure custom actions. The Custom Actions window will appear.
+* Open `Thunar`.
+* Go to `Edit>Configure` custom actions. The Custom Actions window will appear.
 * Add a new custom action by clicking the plus sign at the top right of the window.
 * In the basic input box, type any descriptor. I type Convert to AVI. This is the text that will appear in the right-click context menu.
 * In the description input box, type any descriptor. I type Convert any video to AVI.
@@ -41,6 +42,6 @@ The steps for creating other Custom Actions are roughly the same as above, thoug
 
 After a while you may have dozens of custom actions. Back them up so you don’t have to tediously re-enter them if something happens to your system, or if you install another system.
 
-* Go to your personal ($USER) folder and hit CTRL-h to show hidden files. 
-* Go to /home/$USER/.config/Thunar/. 
-* In the Thunar folder copy the uca.xml file and paste it somewhere to back it up.
+* Go to your personal ($USER) folder and hit CTRL-H to show hidden files. 
+* Go to `/home/$USER/.config/Thunar/. 
+* In the Thunar folder copy the `uca.xml` file and paste it somewhere to back it up.

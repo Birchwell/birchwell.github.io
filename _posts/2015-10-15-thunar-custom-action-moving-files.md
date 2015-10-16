@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - Moving Files
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 ##Move To
 
@@ -11,7 +11,9 @@ This is a handy action which can move any selected files. A window will appear a
 
 * Name: Move To
 * Description: Move selected files
-* Command: `mv %f "'zenity --file-selection --directory'"`
+* Command: 
+
+`mv %f "'zenity --file-selection --directory'"`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -21,7 +23,9 @@ This is a handy action which can move any selected files to a subfolder. The sub
 
 * Name: Move To Subfolder
 * Description: Move selected files automatically
-* Command: `NOW=$(date +"%%Y-%%m-%%d-%%H%%M%%S"); mkdir -p %d/$NOW; for file in %N; do mv -n "$file" -t "$NOW"; done`
+* Command: 
+
+`NOW=$(date +"%%Y-%%m-%%d-%%H%%M%%S"); mkdir -p %d/$NOW; for file in %N; do mv -n "$file" -t "$NOW"; done`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -31,7 +35,9 @@ This is a handy action which can move any selected files to a custom named subfo
 
 * Name: Move To Custom Named Subfolder
 * Description: Move selected files to custom named folder
-* Command: `variable=$(zenity --entry --title="Create folder" --text="Name of the folder"); mkdir -p "$variable"; mv -n %F -t "$variable";`
+* Command: 
+
+`variable=$(zenity --entry --title="Create folder" --text="Name of the folder"); mkdir -p "$variable"; mv -n %F -t "$variable";`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -41,7 +47,9 @@ Divide files in folder into many folders. Customizable by changing number of fil
 
 * Name: Files into Folders
 * Description: Divide files in folder into many folders.
-* Command: `/home/$USER/Scripts/movefilesdir.sh %N`
+* Command: 
+
+`/home/$USER/Scripts/movefilesdir.sh %N`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -57,7 +65,9 @@ This is a handy action which can copy any selected files to a custom named subfo
 
 * Name: Copy To Subfolder
 * Description: Copy selected files to custom named subfolder
-* Command: `variable=$(zenity --entry --title="Create folder" --text="Name of the folder"); mkdir -p "$variable"; cp -r -n %F -t "$variable";`
+* Command: 
+
+`variable=$(zenity --entry --title="Create folder" --text="Name of the folder"); mkdir -p "$variable"; cp -r -n %F -t "$variable";`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -67,6 +77,8 @@ This is a handy action which will move all files out of subfolders into their pa
 
 * Name: Move files from subfolders to parent folder
 * Description: Move files from subfolders to parent folder
-* Command: `find . - mindepth 2 -type f -exec mv "{}" . \; && fin d . - type d -empty -delete`
+* Command: 
+
+`find . - mindepth 2 -type f -exec mv "{}" . \; && fin d . - type d -empty -delete`
 
 Under `Appears if selection contains` make sure just `Directories` is checked.

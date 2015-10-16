@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - Slugify and Remove Custom Characters
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 ##Delete Spaces, Underscores, Plusses, and Hyphens in Filenames
 

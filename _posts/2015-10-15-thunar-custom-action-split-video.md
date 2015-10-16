@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - Split Video Into Pieces
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This custom action will split video into clips according to a user defined number of seconds. The duration of the clips will not always be exactly the duration wanted. This is because of keyframes.
 
@@ -11,7 +11,9 @@ This custom action will split video into clips according to a user defined numbe
 
 * Name: Split Video
 * Description: Split video into clips at defined time intervals
-* Command: `/home/$USER/Scripts/splitvideoyad.sh %f`
+* Command: 
+
+`/home/$USER/Scripts/splitvideoyad.sh %f`
 
 Under `Appears if selection contains` make sure `Video Files` is checked.
 

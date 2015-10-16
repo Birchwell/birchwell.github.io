@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Actions - Convert Images to MP4 Slideshow
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This FFmpeg command will convert JPGs (or other formats) in a directory to an MP4 video (which can be handy for archiving purposes, slideshows, timelapse, et cetera), while retaining the correct scale of the images through the use of padding. The images will only be resized to a smaller dimension if the scaling and padding properties in the command are smaller than the image dimensions. So if the largest image is 3200×3800 pixels, and the scaling and padding is smaller than 3200×3800, then that image will be resized down. The resulting MP4 will often have a slightly smaller filesize than the combined filesize of the images. If you want to extract the images from the video at some point it should be noted that the black margins will be retained in the output frames.
 
@@ -29,6 +29,8 @@ Learn how to use Thunar Custom Actions here.
 
 * Name: JPG to MP4
 * Description: Convert folders of JPG images to MP4.
-* Command: `for file in %N; do ffmpeg -framerate 15 -pattern_type glob -i '*.jpg' -vf "scale=min(1920/iw\,1920/ih)*iw:min(1920/iw\,1920/ih)*ih,pad=1920:1920:(1920-(min(1920/iw\,1920/ih)*iw))/2:(1920-(min(1920/iw\,1920/ih)*ih))/2" -c:v libx264 output.mp4; done`
+* Command: 
+
+`for file in %N; do ffmpeg -framerate 15 -pattern_type glob -i '*.jpg' -vf "scale=min(1920/iw\,1920/ih)*iw:min(1920/iw\,1920/ih)*ih,pad=1920:1920:(1920-(min(1920/iw\,1920/ih)*iw))/2:(1920-(min(1920/iw\,1920/ih)*ih))/2" -c:v libx264 output.mp4; done`
 
 Under `Appearance Conditions` check `Image Files`.

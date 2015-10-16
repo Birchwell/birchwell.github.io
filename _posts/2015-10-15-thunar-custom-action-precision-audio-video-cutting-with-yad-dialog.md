@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - FFMPEG Precision Audio/Video Cutting with YAD Dialog
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This bash script skirts the annoying FFmpeg limitation of cutting audio or video based not on start/stop timestamps, but on seconds elapsed. For example, this is the FFmpeg command to extract a video clip from a video:
 
@@ -29,7 +29,9 @@ When right-clicking on an audio or video file and selecting the Chop Audio/Video
 
 * Name: Chop Audio/Video
 * Description: Cut video using start/stop times
-* Command: ` /$USER/Scripts/chopvideoaudio.sh %N`
+* Command: 
+
+`/$USER/Scripts/chopvideoaudio.sh %N`
 
 Under `Appears if selection contains` make sure `Audio Files` and `Video Files` are checked.
 

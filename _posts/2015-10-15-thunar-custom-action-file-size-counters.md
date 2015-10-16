@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - File Size Counters and Actual File Size for Linux
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 ##Counter
 
@@ -13,7 +13,9 @@ This custom action will display the size of each selected file/folder in a pop-u
 
 * Name: Counter
 * Description: Determine size of multiple files and folders.
-* Command: `du -chs --apparent-size %N | zenity --text-info`
+* Command: 
+
+`du -chs --apparent-size %N | zenity --text-info`
 
 Under `Appears if selection contains` make sure everything is checked.
 
@@ -31,7 +33,9 @@ This works on files, but YMMV on folders. It's supposed to work on folders, but 
 
 * Name: Actual File Size
 * Description: Report the ACTUAL file size
-* Command: `/home/$USER/Scripts/file-size.sh %N`
+* Command: 
+
+`/home/$USER/Scripts/file-size.sh %N`
 
 Under `Appears if selection contains` make sure everything is checked.
 

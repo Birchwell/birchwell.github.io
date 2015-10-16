@@ -5,7 +5,7 @@ category: posts
 ---
 ![image](http://i.imgur.com/306Q9j1l.jpg)
 
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 [G’Mic (GreyC’s Image for Magic Computing)](http://gmic.eu/) is software for image processing that works on Linux, Mac and Windows. It can carry out a zillion functions on images, but I’m just going to focus on its montage tool, which I find superior to ImageMagick’s montage tool. To use the montage feature you must have G’Mic version 1.6.0.4 or above installed.
 
@@ -51,7 +51,9 @@ Thunar Custom Action – Create Montage of Selected Images
 With this custom action you can right-click on selected JPGs and select the G’Mic Thunar Custom Action, which will automatically convert the images into a montage with 5px borders. An improvement on this command could be achieved with the incorporation of YAD, which would give you the option to input all sorts of variations in framing size, padding, rotation, colors, montage size. But I like this command for most uses, so I use it as my default. To learn more about Thunar Custom Actions click here. With the command-line version of the command the quality output can be controlled by following output.”$(date)”.jpg with, say, “,75″ which amounts to 75% quality. I can’t get the quality output function to work with the command for Thunar Custom Actions. So when creating montages with Thunar Custom Actions you’ll need to reconvert the output montage to smaller quality, unless you don’t mind a large filesize.
 
 * Name: G’Mic Montage – 100%, 5px Frame
-* Command: `gmic %N -gimp_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o 0000."$(date)".jpg`
+* Command: 
+
+`gmic %N -gimp_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o 0000."$(date)".jpg`
 
 Under `Appearance Conditions` check `Image Files`.
 
@@ -60,7 +62,9 @@ Under `Appearance Conditions` check `Image Files`.
 This Custom Action works if you have a directory of images you want to make into a montage. Just right-click on the folder housing the images and click G’Mic Montage Folder Content. The montage will be saved within the respective folder (this works on multiple folders, though the system may freeze up if you run it on too many folders at once). The script currently works only with JPGs, but it can be modified to work with additional formats. With the command-line version of the command the quality output can be controlled by following output.”$(date)”.jpg with, say, “,75″ which amounts to 75% quality. I can’t get the quality output function to work with the command for Thunar Custom Actions. So when creating montages with Thunar Custom Actions you’ll need to reconvert the output montage to smaller quality, unless you don’t mind a large filesize.
 
 * Name: G’Mic Montage Folder Content
-* Command: `/$USER/Scripts/montagefolders.sh %F`
+* Command: 
+
+`/$USER/Scripts/montagefolders.sh %F`
 
 Under `Appears if selection contains` make sure `Directories` and `Image Files` are checked.
 

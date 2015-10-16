@@ -3,7 +3,7 @@ layout: post
 title: Thunar Custom Action - Sort Images by Dimension and Delete
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 One of the downsides of Linux is that you can’t sort images by dimensions without some tinkering. This is easily done in Windows systems. With the help of the following bash script you can sort a folder of images according to dimensions.
 
@@ -20,7 +20,9 @@ This script once had a working delete function, whereby you would check the boxe
 
 * Name: DimensionSort
 * Description: Sort images by dimensions.
-* Command: `/home/$USER/Scripts/dimensionsortyad.sh %f`
+* Command: 
+
+`/home/$USER/Scripts/dimensionsortyad.sh %f`
 
 Under `Appearance conditions` check `Directories` and `Image Files`.
 

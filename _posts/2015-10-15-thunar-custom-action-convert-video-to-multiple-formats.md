@@ -3,13 +3,15 @@ layout: post
 title: Thunar Custom Action - Convert Video to Multiple Formats
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://pointpont.github.io/thunar_custom_action/video/ffmpeg/conversion/2015/06/08/thunar-custom-actions-tutorial-convert-video-to-avi.html).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
 This command works with a bash script (below). Convert video to avi, 3gp, flv, mov, mp4, asf, wmv, mkv, mpg. The video and audio bitrates can be set.
 
 * Name: Convert Video
 * Description: Convert from one format to another.
-* Command: `/home/$USER/Scripts/convertvideo.sh %n`
+* Command: 
+
+`/home/$USER/Scripts/convertvideo.sh %n`
 
 Under `Appears if selection contains` make sure `Video Files` is checked.
 
