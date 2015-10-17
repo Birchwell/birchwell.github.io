@@ -32,7 +32,7 @@ Change `/home/$USER/Scripts/dimensionsortyad.sh` to the path of the bash script,
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `dimensionsortyad.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x dimensionsortyad.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[YAD Bash Script](https://gist.github.com/pointpont/1a5bc49437ab98843d15)
+[YAD Bash Script](https://gist.github.com/Birchwell/0319caa7fbf198cd6120)
 
 ##Thunar Custom Action - Sort Images by Dimension and Delete with Zenity
 
@@ -44,4 +44,4 @@ The amount of images it sorts is adjustable in the script. Right now it’s set 
 
 This script can be used with Thunar Custom Actions. Just follow the directions above and modify them for this script.
 
-[Zenity Bash Script](https://gist.github.com/pointpont/35c145541fc067feceed)
+[Zenity Bash Script](https://gist.github.com/Birchwell/28b7c9f5bb64d9595d75)
