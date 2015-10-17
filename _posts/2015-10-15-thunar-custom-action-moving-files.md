@@ -57,7 +57,7 @@ Under `Appears if selection contains` make sure everything is checked.
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `movefilesdir.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x movefilesdir.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/0bd07d007f42bf9750ce)
+[Bash Script](https://gist.github.com/Birchwell/94fa2f3dff1fc2c46728)
 
 ##Copy to Custom Named Subfolder
 
