@@ -21,4 +21,4 @@ Change `/home/$USER/Scripts/nix.sh` to the path of the bash script, and change `
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script: `nix.sh`. Save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type: `chmod +x nix.sh` And press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/0095e3c4c27e8c8f9dd6)
+[Bash Script](https://gist.github.com/Birchwell/f9372759efe5dcbc8d32)
