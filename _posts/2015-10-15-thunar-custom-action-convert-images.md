@@ -21,4 +21,4 @@ Change `/home/$USER/Scripts/convert-image.sh` to the path of the bash script, an
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script: `convert-image.sh`. Save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type: `chmod +x convert-image.sh` And press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/f52aee238825f72ac629)
+[Bash Script](https://gist.github.com/Birchwell/3311a9d63c21ca24d021)
