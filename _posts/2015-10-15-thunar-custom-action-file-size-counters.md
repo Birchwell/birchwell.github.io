@@ -43,4 +43,4 @@ Under `Appears if selection contains` make sure everything is checked.
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `file-size.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x file-size.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/pointpont/19f8dfd4801778b658f2)
+[Bash Script](https://gist.github.com/Birchwell/e1dcb5055cfea83b8f28)
