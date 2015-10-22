@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Exiftool - Strip Metadata From Images
+tags:
+- exiftool
+- metadata
+- delete
+- graphics
 category: posts
 ---
 The following Exiftool command will strip all metadata* (XMP, EXIF, IPTC) from all images found in a folder. Exiftool must be installed.
@@ -13,4 +18,4 @@ The following command will move stripped image files into a new subdirectory, wh
 
 ---
 
-*See also [Jpegoptim](https://pointpont.github.io/image/resize/2015/06/12/resize-jpg-images-to-size-threshold.html)
+*See also [Jpegoptim](https://birchwell.github.io/posts/resize-jpg-images-to-size-threshold/)
