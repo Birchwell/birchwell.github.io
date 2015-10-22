@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Thunar Custom Action - Copy Filename and Path
+tags:
+- thunar custom action
+- xclip
 category: posts
 ---
 
