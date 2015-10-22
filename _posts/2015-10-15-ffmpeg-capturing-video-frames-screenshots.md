@@ -1,6 +1,10 @@
 ---
 layout: post
 title: FFMPEG - Capturing Video Frames
+tags:
+- ffmpeg
+- video
+- capture
 category: posts
 ---
 These are two FFmpeg video frame capturing scripts that work for me. They probably work with any type of video file, but I’ve confirmed that they work with FLV, AVI, and MP4 files.
