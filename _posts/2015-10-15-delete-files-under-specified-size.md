@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Delete Files Below Specified Size
+tags:
+- find
+- delete
 category: posts
 ---
 The following command will delete any files in a directory that are under 10 kilobytes:
