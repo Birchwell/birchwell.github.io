@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Thunar Custom Action - G'Mic Montage
+tags:
+- thunar custom action
+- g'mic
+- graphics
 category: posts
 ---
 ![image](http://i.imgur.com/306Q9j1l.jpg)
