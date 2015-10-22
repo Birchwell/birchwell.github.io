@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Convert Images with Particular Formats and Delete Originals
+tags:
+- convert
+- graphics
+- ImageMagick
 category: posts
 ---
 The following command will convert any .bmp and .png images in a directory to .jpg, and delete the originals. ImageMagick must be installed.
