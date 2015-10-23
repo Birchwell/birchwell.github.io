@@ -22,7 +22,7 @@ This script once had a working delete function, whereby you would check the boxe
 
 ##Thunar Custom Action - Sort Images by Dimension with YAD
 
-![image](http://i.imgur.com/N1MTaqo.png)
+![Sort Images by Dimension - Thunar Custom Action](http://i.imgur.com/N1MTaqo.png)
 
 * Name: DimensionSort
 * Description: Sort images by dimensions.
@@ -44,7 +44,7 @@ I keep my bash scripts in a folder called “Scripts” in my personal directory
 
 I have another bash script that’s not quite as fast as the YAD script. It uses Zenity to sort images by dimension and it does allow you to delete images from within the sorting box, but does not allow you to double-click the images and open them in a viewer. 
 
-![image](http://i.imgur.com/YO1kJRH.png)
+![Sort Images by Dimension - Thunar Custom Action](http://i.imgur.com/YO1kJRH.png)
 
 The amount of images it sorts is adjustable in the script. Right now it’s set to sort 500 images `(MAX_INPUT=500)`, but you can change this to any number. There are two instances of `MAX_INPUT=`. Change the number in both instances. You can also set how many images you want to delete. This is changed by modifying the number after `MAX_OUTPUT=`. The number is currently set at 100. So if you chose to delete 150 images, only 100 would be deleted. Change the numbers after both instances of `MAX_OUTPUT=`. To select images listed nonconsecutively for deletion use `CTRL+left-click`. To select consecutively listed images for deletion click on the first image in the series and then `SHIFT+left-click` on the last image. All the images in between will highlight. In which case you can press `OK` to delete them.
 
