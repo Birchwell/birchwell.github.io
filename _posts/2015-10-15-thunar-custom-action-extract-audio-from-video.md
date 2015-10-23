@@ -5,6 +5,7 @@ tags:
 - thunar custom action
 - ffmpeg
 - audio
+- editing
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
