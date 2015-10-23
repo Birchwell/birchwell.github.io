@@ -18,7 +18,7 @@ This command produces a pretty good quality animated gif with a reasonably small
 
 Example output (520×325, 920KB, 51 frames):
 
-![image](http://i.imgur.com/tU7Vfmq.gif)
+![GIF Animation (Galaxy Craze in Nadja) - Thunar Custom Action](http://i.imgur.com/tU7Vfmq.gif)
 
 ###Video to GIF
 
