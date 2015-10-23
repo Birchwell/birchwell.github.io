@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Thunar Custom Action - Set Image as Desktop Background
+tags:
+- thunar custom action
+- graphics
+- xfconf
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
