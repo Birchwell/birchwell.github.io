@@ -13,7 +13,7 @@ To learn how to use Thunar Custom Actions click [here](https://birchwell.github.
 
 This custom action will display the size of each selected file/folder in a pop-up window. The program Zenity must be installed for this action to work.
 
-![image](http://i.imgur.com/yvdoHyX.png)
+![File Size Counter - Thunar Custom Action](http://i.imgur.com/yvdoHyX.png)
 
 * Name: Counter
 * Description: Determine size of multiple files and folders.
@@ -33,7 +33,7 @@ Thunar has a strange weakness when it comes to reporting file sizes.
 
 This works on files, but YMMV on folders. It's supposed to work on folders, but the results are screwy.
 
-![image](http://i.imgur.com/76KBJlX.png)
+![File Size Counter - Thunar Custom Action](http://i.imgur.com/76KBJlX.png)
 
 * Name: Actual File Size
 * Description: Report the ACTUAL file size
