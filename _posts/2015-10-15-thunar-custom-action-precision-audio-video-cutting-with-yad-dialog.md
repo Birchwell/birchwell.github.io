@@ -32,7 +32,7 @@ I use the following bash script with Thunar Custom Actions, but it can be used a
 
 When right-clicking on an audio or video file and selecting the Chop Audio/Video custom action, a dialog box will appear, and an audio or video file must be selected. Any audio and video format that FFmpeg supports can be added to the bash script. Presently MP4, AVI, MKV, and MP3 are included, so any files with those formats will appear when searching for files through the YAD dialog box. After selecting the file another dialog box will pop up to enter start/stop timestamps (in hh:mm:ss format) and for setting the output directory and output filename (click the folder icon to the far right of the output box).
 
-![image](http://i.imgur.com/zXkfHrp.png)
+![Editing Video - Thunar Custom Action](http://i.imgur.com/zXkfHrp.png)
 
 * Name: Chop Audio/Video
 * Description: Cut video using start/stop times
