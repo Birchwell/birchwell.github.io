@@ -13,7 +13,7 @@ category: posts
 
 Thunar is a file manager for Linux systems that comes packaged with the XFCE desktop environment. One of the main attractions of Thunar is the ability to add some very convenient and time saving customized actions by way of the Custom Actions utility inside Thunar.
 
-![image](http://i.imgur.com/N4eCel8.jpg)
+![Thunar Custom Action Tutorial](http://i.imgur.com/N4eCel8.jpg)
 
 I'll do a walkthrough tutorial with the following Custom Action.
 
