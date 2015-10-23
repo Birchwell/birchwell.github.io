@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Thunar Custom Action - Watermark Images
+tags:
+- thunar custom action
+- graphics
+- editing
 category: posts
 ---
 ![image](http://i.imgur.com/0PPOfuI.jpg)
