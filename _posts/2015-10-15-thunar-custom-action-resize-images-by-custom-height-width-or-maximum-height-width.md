@@ -22,12 +22,9 @@ This custom action resizes images by a custom height. The resized images are mov
 * Description: Resizes image(s) by custom height 
 * Command: 
 
-~~~~
-CUSTOM_COMMAND=$(yad --entry --title "Custom Command" --text "Enter Height:") ; 
+`CUSTOM_COMMAND=$(yad --entry --title "Custom Command" --text "Enter Height:") ; 
 mkdir %d/dir && cd %d; for file in %N; do convert "$file" -resize 
-x$CUSTOM_COMMAND "dir/${file}"; done
-~~~~
---------
+x$CUSTOM_COMMAND "dir/${file}"; done`
 
 Under `Appears if selection contains` make sure `Image Files` is checked.
 
