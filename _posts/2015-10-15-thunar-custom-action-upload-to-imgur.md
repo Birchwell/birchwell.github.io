@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Thunar Custom Action - Upload to Imgur
+tags:
+- thunar custom action
+- graphics
+- imagehost
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
