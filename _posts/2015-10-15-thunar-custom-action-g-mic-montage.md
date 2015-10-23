@@ -7,7 +7,7 @@ tags:
 - graphics
 category: posts
 ---
-![image](http://i.imgur.com/306Q9j1l.jpg)
+![G'Mic Montage - Thunar Custom Action](http://i.imgur.com/306Q9j1l.jpg)
 
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
