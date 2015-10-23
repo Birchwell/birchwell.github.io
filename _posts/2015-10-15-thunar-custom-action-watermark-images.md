@@ -7,7 +7,7 @@ tags:
 - editing
 category: posts
 ---
-![image](http://i.imgur.com/0PPOfuI.jpg)
+![Watermark - Thunar Custom Action](http://i.imgur.com/0PPOfuI.jpg)
 
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
 
