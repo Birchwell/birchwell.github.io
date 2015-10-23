@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Thunar Custom Action - Sort Images by Dimension and Delete
+tags:
+- thunar custom action
+- YAD
+- zenity
+- graphics
+- filesize
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
