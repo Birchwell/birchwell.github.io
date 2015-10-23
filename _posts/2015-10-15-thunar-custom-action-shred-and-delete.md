@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Thunar Custom Action - Securely Shred and Delete Files
+tags:
+- thunar custom action
+- zenity
+- shred
+- fuz
+- delete
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
