@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Thunar Custom Action - FFMPEG Precision Audio/Video Cutting with YAD Dialog
+tags:
+- thunar custom action
+- YAD
+- audio
+- video
+- ffmpeg
+- editing
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
