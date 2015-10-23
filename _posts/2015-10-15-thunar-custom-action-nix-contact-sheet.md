@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Thunar Custom Action - NIX Contact Sheet
+tags:
+- thunar custom action
+- graphics
+- video
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
