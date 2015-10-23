@@ -11,7 +11,7 @@ To learn how to use Thunar Custom Actions click [here](https://birchwell.github.
 
 This custom action is similar to the popular program [Mediainfo](https://mediaarea.net/en/MediaInfo); it will show some basic specifications of any audio/video file. Though it’s best suited to audio/video files, it can identify image resolutions. Zenity must be installed to see the display.
 
-![image](http://i.imgur.com/hesELv5l.jpg)
+![Media Data - Thunar Custom Action](http://i.imgur.com/hesELv5l.jpg)
 
 * Name: Media Data
 * Description: Find audio/video information.
