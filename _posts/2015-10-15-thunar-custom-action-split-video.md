@@ -12,7 +12,7 @@ To learn how to use Thunar Custom Actions click [here](https://birchwell.github.
 
 This custom action will split video into clips according to a user defined number of seconds. The duration of the clips will not always be exactly the duration wanted. This is because of keyframes.
 
-![image](http://i.imgur.com/DzqyJKr.png)
+![Split Video - Thunar Custom Action](http://i.imgur.com/DzqyJKr.png)
 
 * Name: Split Video
 * Description: Split video into clips at defined time intervals
