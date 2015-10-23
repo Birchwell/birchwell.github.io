@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Thunar Custom Action - Moving Files
+tags:
+- thunar custom action
+- zenity
+- YAD
+- mv
+- find
 category: posts
 ---
 To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
