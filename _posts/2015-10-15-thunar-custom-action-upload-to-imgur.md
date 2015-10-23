@@ -4,6 +4,8 @@ title: Thunar Custom Action - Upload to Imgur
 tags:
 - thunar custom action
 - graphics
+- zenity
+- curl
 - imagehost
 category: posts
 ---
