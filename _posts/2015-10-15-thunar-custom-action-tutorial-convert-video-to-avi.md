@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Thunar Custom Action - Convert Video to AVI
+tags:
+- thunar custom action
+- tutorial
+- convert
+- video
+- ffmpeg
+- backup
 category: posts
 ---
 
