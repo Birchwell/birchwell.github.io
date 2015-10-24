@@ -6,6 +6,7 @@ rdiscount:
 
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 
 name: Birch Well
 url: http://birchwell.github.io
