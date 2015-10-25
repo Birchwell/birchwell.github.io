@@ -7,7 +7,7 @@ tags:
 - xfconf
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 Set image as desktop background. It helps if the image is the exact dimension of your desktop, because this command does not allow you to customize how the image is displayed. If it’s not the right dimension you’ll have to go to your display properties and fidget with the options.
 
