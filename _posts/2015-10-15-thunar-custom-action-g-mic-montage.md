@@ -9,7 +9,7 @@ category: posts
 ---
 ![G'Mic Montage - Thunar Custom Action](http://i.imgur.com/306Q9j1l.jpg)
 
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 [G’Mic (GreyC’s Image for Magic Computing)](http://gmic.eu/) is software for image processing that works on Linux, Mac and Windows. It can carry out a zillion functions on images, but I’m just going to focus on its montage tool, which I find superior to ImageMagick’s montage tool. To use the montage feature you must have G’Mic version 1.6.0.4 or above installed.
 
