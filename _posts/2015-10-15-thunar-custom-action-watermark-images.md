@@ -9,7 +9,7 @@ category: posts
 ---
 ![Watermark - Thunar Custom Action](http://i.imgur.com/0PPOfuI.jpg)
 
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi).
 
 This custom action works with a bash script (below). Images will be watermarked after entering custom text into a dialog box and pressing enter. The originals will be copied to a subfolder of the working directory named backups. Edit the script to modify the default watermark settings to your liking.
 
