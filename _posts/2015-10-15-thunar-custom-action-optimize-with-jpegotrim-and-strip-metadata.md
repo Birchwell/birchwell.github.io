@@ -8,7 +8,7 @@ tags:
 - delete
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 Losslessly optimize JPEGs, by optimizing the Huffman tables and stripping comments and EXIF metadata from the file. If you don't want to strip metadata then just remove `--strip-all` from the command.
 
