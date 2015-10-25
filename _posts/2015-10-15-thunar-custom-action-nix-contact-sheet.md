@@ -7,7 +7,7 @@ tags:
 - video
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-actions-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 This Custom Action will produce contact sheets of videos using a bash script I found [here](http://p.outlyer.net/vcs/#issues).
 
