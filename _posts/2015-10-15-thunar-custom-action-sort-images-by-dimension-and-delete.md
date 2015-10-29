@@ -9,7 +9,7 @@ tags:
 - filesize
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 One of the downsides of Linux is that you can’t sort images by dimensions without some tinkering. This is easily done in Windows systems. With the help of the following bash script you can sort a folder of images according to dimensions.
 
@@ -38,7 +38,7 @@ Change `/home/$USER/Scripts/dimensionsortyad.sh` to the path of the bash script,
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `dimensionsortyad.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x dimensionsortyad.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[YAD Bash Script](https://gist.github.com/Birchwell/0319caa7fbf198cd6120)
+[YAD Bash Script](http://gist.github.com/Birchwell/0319caa7fbf198cd6120)
 
 ##Thunar Custom Action - Sort Images by Dimension and Delete with Zenity
 
@@ -50,4 +50,4 @@ The amount of images it sorts is adjustable in the script. Right now it’s set 
 
 This script can be used with Thunar Custom Actions. Just follow the directions above and modify them for this script.
 
-[Zenity Bash Script](https://gist.github.com/Birchwell/28b7c9f5bb64d9595d75)
+[Zenity Bash Script](http://gist.github.com/Birchwell/28b7c9f5bb64d9595d75)
