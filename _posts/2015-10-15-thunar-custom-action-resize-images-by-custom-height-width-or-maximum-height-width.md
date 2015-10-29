@@ -12,7 +12,7 @@ tags:
 - convert
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 ##Resize Images by Custom Height/Width
 
