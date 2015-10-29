@@ -7,7 +7,7 @@ tags:
 - symbolic link
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 Create a soft link to a folder or file. This is the same as a symbolic link, but the command is somewhat different from the SymLink custom action that comes default with Thunar.
 
