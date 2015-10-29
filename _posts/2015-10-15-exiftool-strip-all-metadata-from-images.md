@@ -18,4 +18,4 @@ The following command will move stripped image files into a new subdirectory, wh
 
 ---
 
-*See also [Jpegoptim](https://birchwell.github.io/posts/resize-jpg-images-to-size-threshold/)
+*See also [Jpegoptim](http://birchwell.github.io/posts/resize-jpg-images-to-size-threshold/)
