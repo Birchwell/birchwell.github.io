@@ -7,7 +7,7 @@ tags:
 - zenity
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 This custom action is similar to the popular program [Mediainfo](https://mediaarea.net/en/MediaInfo); it will show some basic specifications of any audio/video file. Though it’s best suited to audio/video files, it can identify image resolutions. Zenity must be installed to see the display.
 
