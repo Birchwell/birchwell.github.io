@@ -10,7 +10,7 @@ tags:
 - editing
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](https://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/thunar-custom-action-tutorial-convert-video-to-avi/).
 
 This bash script skirts the annoying FFmpeg limitation of cutting audio or video based not on start/stop timestamps, but on seconds elapsed. For example, this is the FFmpeg command to extract a video clip from a video:
 
@@ -48,6 +48,6 @@ Change `$USER/Scripts/chopvideoaudio.sh` to the path of the bash script, and cha
 
 I keep my bash scripts in a folder called “Scripts” in my personal directory. To create the bash script copy the script below and paste it into a text editor. Name the script `chopvideoaudio.sh` and save it to the scripts folder you created. Make the script executable by opening up a terminal and navigating to the folder in which the script is stored. Type `chmod +x chopvideoaudio.sh` and press `Enter`. The script will now work when used with Thunar Custom Actions.
 
-[Bash Script](https://gist.github.com/Birchwell/a43b9c905e2e7f608625)
+[Bash Script](http://gist.github.com/Birchwell/a43b9c905e2e7f608625)
 
 Any format that FFmpeg supports can be added to the bash script. So if you want to add the .flv format just insert it after the file-filter parameter. If you want to encode the clip instead of copying it (which is useful if you want to create more keyframes to make use of cutting to the millisecond) then replace -c:v copy with -c:v libx264, or whatever codec you want to use. More [here](http://superuser.com/questions/458761/accurately-cut-video-files-from-command-line) for tweaking the timestamp in the script to make use of milliseconds.
