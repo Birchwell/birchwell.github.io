@@ -17,4 +17,4 @@ The following command will also strip all metadata* from the jpgs:
 `jpegoptim --strip-all -S3800 *.jpg`
 
 ---
-*See also [Strip All Metadata with Exiftool](https://birchwell.github.io/posts/exiftool-strip-all-metadata-from-images/)
+*See also [Strip All Metadata with Exiftool](http://birchwell.github.io/posts/exiftool-strip-all-metadata-from-images/)
