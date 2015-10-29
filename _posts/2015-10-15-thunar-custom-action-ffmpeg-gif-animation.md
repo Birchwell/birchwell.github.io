@@ -35,7 +35,7 @@ Under `Appearance conditions` check `Video Files`.
 
 ###Multiple Videos to Multiple GIFs
 
-This bash script custom action will work on multiple video files, outputting multiple GIFs renamed with incremental numbering. It's useful in conjunction with the [Split Video custom action](https://pointpont.github.io/thunar_custom_action/ffmpeg/video/split/edit/2015/06/08/thunar-custom-action-split-video.html), by splitting a long video into 5 second clips and then converting select clips to GIF. NOTE: I can't get the bash script to only convert select videos. It will convert ALL videos in a folder to multiple GIFs, so be careful. Also the video file names must not contain spaces.
+This bash script custom action will work on multiple video files, outputting multiple GIFs renamed with incremental numbering. It's useful in conjunction with the [Split Video custom action](https://birchwell.github.io/posts/thunar-custom-action-split-video/), by splitting a long video into 5 second clips and then converting select clips to GIF. NOTE: I can't get the bash script to only convert select videos. It will convert ALL videos in a folder to multiple GIFs, so be careful. Also the video file names must not contain spaces.
 
 * Name: Multiple Videos to Multiple GIFs
 * Description: Converts multiple videos to multiple GIFs
