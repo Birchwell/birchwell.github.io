@@ -8,7 +8,7 @@ tags:
 - ffmpeg
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
 
 This custom action will split video into clips according to a user defined number of seconds. The duration of the clips will not always be exactly the duration wanted. This is because of keyframes.
 

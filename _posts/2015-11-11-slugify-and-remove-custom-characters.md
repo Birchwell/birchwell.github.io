@@ -8,7 +8,7 @@ tags:
 - rename
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
 
 ##Delete Spaces, Underscores, Plusses, and Hyphens in Filenames
 

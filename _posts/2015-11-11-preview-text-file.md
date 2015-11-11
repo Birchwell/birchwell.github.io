@@ -7,7 +7,7 @@ tags:
 - text
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
 
 This command will preview a text file in a Zenity pop-up box. Decrease or increase `300` in the command to change the amount of text that is previewed. Zenity must be installed.
 

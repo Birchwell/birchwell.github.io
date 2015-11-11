@@ -10,7 +10,7 @@ tags:
 - xargs
 category: posts
 ---
-To learn how to use Thunar Custom Action click [here](http://birchwell.github.io/posts/convert-video-to-avi/).
+To learn how to use Thunar Custom Action click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
 
 This command produces a pretty good quality animated gif with a reasonably small footprint. The scale parameter will size the animated gif according to width, while retaining the correct aspect ratio. `-t 10` limits the output to 10 seconds. `-r 10` forces a frame rate of 10 frames per second. This command works best with versions of FFmpeg 2.0 and above. Check out the source link at the bottom of the post for additional ways to produce quality animated gifs, particularly LordNeckbeard’s answer. NOTE: Change the video format in the following commands and bash script to the format you're working with.
 

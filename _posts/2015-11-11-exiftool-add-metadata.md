@@ -11,7 +11,7 @@ tags:
 category: posts
 ---
 
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
 
 ##Exiftool - Add Metadata
 
@@ -43,4 +43,4 @@ I keep my bash scripts in a folder named Scripts in my personal directory. To cr
 
 [Bash Script](http://gist.github.com/Birchwell/8d8e4b8ca7722c28d193)
 
-See also [Exiftool - Strip Metadata from Image](http://birchwell.github.io/posts/exiftool-strip-all-metadata-from-images/).
+See also [Exiftool - Strip Metadata from Image](https://birchwell.github.io/posts/exiftool-strip-all-metadata-from-images/).
