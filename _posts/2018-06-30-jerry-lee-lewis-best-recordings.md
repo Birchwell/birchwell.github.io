@@ -9,6 +9,8 @@ category: posts
 ---
 
 * 1961 - Jerry Lee's Greatest - What'd I Say
+* 1964 - Live at the Star Club - Money (That's What I Want)
+* 1964 - Live at the Star Club - Long Tall Sally
 * 1964 - The Greatest Live Show on Earth - Who Will the Next Fool Be
 * 1965 - Country Songs for City Folks - Green Green Grass of Home
 * 1965 - The Return of Rock - I Believe in You
@@ -35,17 +37,3 @@ category: posts
 * 2006 - Last Man Standing - Rock and Roll (with Jimmy Page)
 * 2006 - Last Man Standing - A Couple More Years (with Willie Nelson)
 * 2006 - Last Man Standing - Old Glory (with Toby Keith)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
