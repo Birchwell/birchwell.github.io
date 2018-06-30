@@ -10,7 +10,7 @@ tags:
 - editing
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
 
 This bash script skirts the annoying FFmpeg limitation of cutting audio or video based not on start/stop timestamps, but on seconds elapsed. For example, this is the FFmpeg command to extract a video clip from a video:
 
