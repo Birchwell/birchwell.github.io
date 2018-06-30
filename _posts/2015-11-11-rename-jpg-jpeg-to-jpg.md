@@ -7,7 +7,7 @@ tags:
 - graphics
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
 
 This custom action will rename images with JPEG and JPG extensions with jpg.
 
