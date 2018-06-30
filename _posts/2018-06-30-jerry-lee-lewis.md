@@ -8,8 +8,8 @@ tags:
 category: posts
 ---
 
-1961 - Jerry Lee's Greatest - What'd I Say
-1964 - The Greatest Live Show on Earth - Who Will the Next Fool Be
+* 1961 - Jerry Lee's Greatest - What'd I Say
+* 1964 - The Greatest Live Show on Earth - Who Will the Next Fool Be
 1965 - Country Songs for City Folks - Green Green Grass of Home
 1965 - The Return of Rock - I Believe in You
 1965 - The Return of Rock - Corrine, Corrina
