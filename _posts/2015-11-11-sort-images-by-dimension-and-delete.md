@@ -9,7 +9,7 @@ tags:
 - filesize
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
 
 One of the downsides of Linux is that you can’t sort images by dimensions without some tinkering. This is easily done in Windows systems. With the help of the following bash script you can sort a folder of images according to dimensions.
 
