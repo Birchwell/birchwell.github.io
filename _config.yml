@@ -3,6 +3,9 @@ permalink: /posts/:title
 timezone: America/New York
 rdiscount:
   extensions: [smart]
+  
+plugins:
+  - jekyll-seo-tag
 
 gems:
   - jekyll-sitemap
