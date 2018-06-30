@@ -6,7 +6,8 @@ tags:
 - backup
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
+
 
 This custom action will backup selected files.
 
