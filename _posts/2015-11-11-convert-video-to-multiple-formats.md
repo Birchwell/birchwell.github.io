@@ -9,7 +9,7 @@ tags:
 - convert
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
 
 This command works with a bash script (below). Convert video to avi, 3gp, flv, mov, mp4, asf, wmv, mkv, mpg. The video and audio bitrates can be set.
 
