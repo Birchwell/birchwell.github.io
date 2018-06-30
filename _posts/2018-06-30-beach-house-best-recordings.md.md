@@ -1,3 +1,13 @@
+---
+layout: post
+title: Beach House Best Recordings
+tags:
+- entertainment
+- music
+- beach house
+category: posts
+---
+
 * 2007 - Devotion - Wedding Bell	
 * 2010 - Teen Dream - Zebra
 * 2010 - Teen Dream - Walk in the Park
