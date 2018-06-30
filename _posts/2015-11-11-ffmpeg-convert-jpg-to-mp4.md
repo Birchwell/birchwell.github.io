@@ -8,7 +8,7 @@ tags:
 - ffmpeg
 category: posts
 ---
-To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi/).
+To learn how to use Thunar Custom Actions click [here](http://birchwell.github.io/posts/tutorial-convert-video-to-avi).
 
 This FFmpeg command will convert JPGs (or other formats) in a directory to an MP4 video (which can be handy for archiving purposes, slideshows, timelapse, et cetera), while retaining the correct scale of the images through the use of padding. The images will only be resized to a smaller dimension if the scaling and padding properties in the command are smaller than the image dimensions. So if the largest image is 3200×3800 pixels, and the scaling and padding is smaller than 3200×3800, then that image will be resized down. The resulting MP4 will often have a slightly smaller filesize than the combined filesize of the images. If you want to extract the images from the video at some point it should be noted that the black margins will be retained in the output frames.
 
