@@ -13,13 +13,13 @@ Considering I haven't heard 1/3rd of his albums and haven't heard most of the bo
 * 1966 - Yesterday - Live Country Music Concert (at Panther Hall) (One of the better covers of this Beatles' classic.)
 * 1968 - Texas In My Soul - Texas In My Soul
 * 1970 - Both Sides Now - Both Sides Now
-* 1971 - Me and Paul
+* 1971 - Yesterday's Wine - Me and Paul
 * 1973 - Whiskey River - Shotgun Willie
 * 1973 - Local Memory - Shotgun Willie
 * 1974 - Bloody Mary Morning - Phases And Stages
 * 1975 - Time of the Preacher - Red Headed Stranger
 * 1975 - Blue Eyes Crying in the Rain - Red Headed Stranger
-* 1975 - Bach Minuet in G - Red Headed Stranger
+* 1975 - Bach Minuet in G - Red Headed Stranger (A nice short country cover I wish would go on much longer. I'd like to hear more great country guitarists do instrumental covers of classical pieces.)
 * 1978 - Stardust - WHOLE ALBUM
 * 1980 - Angel Flying Too Close To The Ground - Honeysuckle Rose Soundtrack (This version may be the best, with the crowd sounds mixed in.)
 * 1980 - On The Road Again - Honeysuckle Rose Soundtrack
@@ -36,6 +36,6 @@ Considering I haven't heard 1/3rd of his albums and haven't heard most of the bo
 * 1985 - Hello Walls - Funny How Time Slips Away w/Faron Young
 * 1995 - Me And Paul - Revolutions Of Time...The Journey 1975-1993 (This is my favorite version. I don't know on what album it originally appeared.)
 * 1993 - Don't Give Up - Across The Borderline (This starts off great, but breaks down a bit.)
-* 1996 - Spirit - WHOLE AlBUM (His guitar playing is spectacular, as are the songs and his singing. His best album. The highlights are She is Gone, Your Memory Won't Die in My Grave, I Guess I've Come to Live Here in Your Eyes)
+* 1996 - Spirit - WHOLE AlBUM (His guitar playing is spectacular, as are the songs and his singing. His best album. The highlights are She is Gone, Your Memory Won't Die in My Grave, I Guess I've Come to Live Here in Your Eyes.)
 
-I've listened to some of his post-Spirit stuff but nothing has clicked with me. Spirit might be his swan song as a first-rate talent.
+I've listened to some of his post-Spirit stuff, his originals and his covers, but nothing has clicked with me. Spirit might be his swan song as a first-rate talent.
