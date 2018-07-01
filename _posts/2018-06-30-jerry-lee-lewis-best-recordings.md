@@ -18,12 +18,12 @@ category: posts
 * 1965 - The Return of Rock - Got You On My Mind
 * 1966 - Memphis Beat - Just Because
 * 1968 - Another Place, Another Time - Another Place, Another Time
-* 1969 - Hee Haw (July 13, 1969) - Another Place, Another Time
+* 1969 - Hee Haw (July 13, 1969) - Another Place, Another Time (He was a fantastic live performer, probably the bulk of his best stuff is found in bootlegs, of which I've heard only a fraction. The video of this Hee-Haw performance offers a display of his signature hamminess.)
 * 1970 - She Even Woke Me Up To Say Goodbye - Since I Met You Baby
 * 1970 - She Even Woke Me Up To Say Goodbye - She Even Woke Me Up To Say Goodbye
-* 1972 - Old Grey Whistle Test (Live) - Think About It Darlin
+* 1972 - Old Grey Whistle Test (Live) - Think About It Darlin (The video of this performance is fun to watch, as the rendition is perfection, but he justifies what he's singing with his bodily and facial expressiveness. His self-assurance takes ones breath away.)
 * 1973 - The Session - Drinking Wine Spo-Dee-O-Dee
-* 1975 - Boogie Woogie Country Man - Boogie Woogie Country Man
+* 1975 - Boogie Woogie Country Man - Boogie Woogie Country Man (This is one of those recordings that hits such a groove you wish it would keep going.)
 * 1975 - Odd Man In - That Kind of Fool
 * 1975 - Rare, Volume 1 (Recorded 1960) - Billy Boy
 * 1979 - Jerry Lee Lewis - Rockin' My Life Away
