@@ -21,5 +21,5 @@ But then I don't want to have to go through each picture to choose which ones I 
 
 The link at DonationCoder no longer works, but fortunately I was able to download it with [Internet Archives' WaybackMachine](https://web.archive.org/web/*/http://www.jellyfishsystems.com/downloads/pickme.zip). PickMe! works on Windows 10, which is the only OS I've tested it with.
 
-*[Wayback Machine Link](https://web.archive.org/web/*/http://www.jellyfishsystems.com/downloads/pickme.zip)
-*[Backup Link](https://mega.nz/#!EptHzJCI)
+* [Wayback Machine Link](https://web.archive.org/web/*/http://www.jellyfishsystems.com/downloads/pickme.zip)
+* [Backup Link](https://mega.nz/#!EptHzJCI)
