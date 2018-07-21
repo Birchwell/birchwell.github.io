@@ -15,7 +15,7 @@ PickMe! is a super-handy portable program created by user [scancode at DonationC
 
 I find it useful for picking random screenshots from a folder containing upwards of 3000 screenshots. I'll want screenshots from a video, and I'll use the FFmpeg code below to extract a random sampling. 
 
-  ffmpeg -i mmm.mp4 -r 3.0 -qscale:v 1 zzz_%03d.jpg
+`ffmpeg -i mmm.mp4 -r 3.0 -qscale:v 1 zzz_%03d.jpg`
 
 But then I don't want to have to go through each picture to choose which ones I want, as it would be time-consuming. So PickMe! is of great assistance with this specific task.
 
