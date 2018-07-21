@@ -5,6 +5,7 @@ tags:
 - software
 - file manipulation
 - random selection
+- donation coder
 category: posts
 ---
 PickMe! is a super-handy portable program created by user [scancode at DonationCoder](http://www.donationcoder.com/forum/?topic=17316.msg153630#msg153630) in 2009. 
@@ -22,4 +23,4 @@ But then I don't want to have to go through each picture to choose which ones I 
 The link at DonationCoder no longer works, but fortunately I was able to download it with [Internet Archives' WaybackMachine](https://web.archive.org/web/*/http://www.jellyfishsystems.com/downloads/pickme.zip). PickMe! works on Windows 10, which is the only OS I've tested it with.
 
 * [Wayback Machine Link](https://web.archive.org/web/*/http://www.jellyfishsystems.com/downloads/pickme.zip)
-* [Backup Link](https://mega.nz/#!EptHzJCI)
+* [Backup Link](https://mega.nz/#!EptHzJCI!mH_zIAJUfCnVkrI-zEdxcaQHaTT0gWoz4vh98j364v4)
