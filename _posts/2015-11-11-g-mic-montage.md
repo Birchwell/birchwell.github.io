@@ -15,7 +15,9 @@ To learn how to use Thunar Custom Actions click [here](http://birchwell.github.i
 
 The montage above was created at the command line with this command:
 
-`gmic *jpg -gimp_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o output."$(date)".jpg,75`
+`gmic *jpg -fx_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o output."$(date)".jpg,75`
+
+(In earlier versions of G'Mic `-gimp_montage` was used in place of `-fx_montage`.)
 
 In a matter of seconds it combined all JPGs in a folder to produce the above montage. Control the quality output by following output.jpg with, say, “,75″ which amounts to 75% quality. I can’t get the quality output function to work with my command for Thunar Custom Actions. So when creating montages with Thunar Custom Actions you’ll need to reconvert the output montage to smaller quality, unless you don’t mind a large filesize.
 
@@ -57,7 +59,7 @@ With this custom action you can right-click on selected JPGs and select the G’
 * Name: G’Mic Montage – 100%, 5px Frame
 * Command: 
 
-`gmic %N -gimp_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o 0000."$(date)".jpg`
+`gmic %N -fx_montage 4,\""V(H(0,1),H(2,V(3,4)))"\",1,1.0,0,5,0,0,0,255,0,0,0,0,0 -o 0000."$(date)".jpg`
 
 Under `Appearance Conditions` check `Image Files`.
 
